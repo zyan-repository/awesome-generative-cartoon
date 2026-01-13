@@ -139,10 +139,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-This repository is inspired by the research report "多Agent驱动的有声漫画与动画生成系统：全栈评估与Benchmark体系构建研究报告" which provides a comprehensive framework for evaluating multi-agent comic and animation generation systems.
-
 ---
 
 **Star this repo** if you find it useful! ⭐
